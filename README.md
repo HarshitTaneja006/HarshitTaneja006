@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @HarshitTaneja
+- 📖Student at VIT-Chennai
+- Currently learning C++
 
 <!---
 HarshitTaneja006/HarshitTaneja006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
