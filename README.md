@@ -8,7 +8,7 @@ I'm a software developer with a focus on web technologies. I enjoy working on va
 
 ## Skills & Technologies
 
-html,css,react,nodejs
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs)](https://skillicons.dev)
 
 ## Top Projects
 
@@ -16,10 +16,6 @@ html,css,react,nodejs
 - [javascript-exercises](https://github.com/HarshitTaneja006/javascript-exercises) - Collection of JavaScript exercises to improve coding skills. **Stars:** 0, **Language:** JavaScript, **Forks:** 0, **Issues:** 0
 - [odin-recipes](https://github.com/HarshitTaneja006/odin-recipes) - A simple recipe website built with HTML and CSS. **Stars:** 0, **Language:** HTML, **Forks:** 0, **Issues:** 0
 
-## GitHub Stats
-
-Public Repositories: **8** | Followers: **0** | Following: **1**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshitTaneja006&show_icons=true&count_private=true&theme=radical)
 
 ## Recent Activity
 
@@ -33,4 +29,4 @@ Currently, I don't have any blog posts. Stay tuned for updates!
 
 ## Connect with Me
 
-{}
+✉️ harshit10eja006@gmail.com
